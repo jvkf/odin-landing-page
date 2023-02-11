@@ -5,3 +5,7 @@ This build was a great opportunity to test my skills and see some new knowledge 
 ## References
 
 - [Foundations - Landing page](https://www.theodinproject.com/lessons/foundations-landing-page)
+
+## Deployment
+
+[Live](https://jvkf.github.io/odin-landing-page/)
